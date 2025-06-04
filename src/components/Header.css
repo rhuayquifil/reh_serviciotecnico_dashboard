@@ -1,0 +1,7 @@
+.header {
+    padding: 0;               /* Elimina padding */
+    margin: 0;                /* Elimina margen */
+    background-color: #f4f4f4; /* Fondo claro (como en Bootstrap) */
+    height: 60px;             /* Altura fija opcional */
+    border-bottom: 1px solid #ddd; /* Línea separadora opcional */
+  }
